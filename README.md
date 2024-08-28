@@ -1,3 +1,4 @@
+![logo](https://github.com/anshG2003/anshG2003/blob/main/site_design_12.jpg)
 <h1 align="center">Hi 👋, I'm Ansh Gupta</h1>
 <h3 align="center">I'm your go-to Full Stack Developer, ready to bring your dream product to life in the virtual world.</h3>
 

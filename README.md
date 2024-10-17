@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshg2003&show_icons=true&locale=en" alt="anshg2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshg2003&" alt="anshg2003" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshG2003)](https://github.com/anshG2003/github-readme-stats)
